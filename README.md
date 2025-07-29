@@ -8,7 +8,7 @@
 <br>
 
 - 🗂️ Projects :
-  - 📂 **[WitO](https://where-is-the-other.fr)** : Memory game made with JavaScript and VueJS. [GitHub Link](https://github.com/C-Lilian/WitO)
+  - 📂 **[WitO](https://where-is-the-other.lilian-cleret.com/)** : Memory game made with JavaScript and VueJS. [GitHub Link](https://github.com/C-Lilian/WitO)
   - 📂 **BoatGame** : Python bot for Discord. [GitHub Link](https://github.com/C-Lilian/BoatGame)
   - 📂 **Jeu De La Vie** : Simulation game made with Java. [GitHub Link](https://github.com/C-Lilian/Jeu_De_La_Vie)
   - 📁 Lots more to come...
@@ -16,6 +16,7 @@
 
 - 📍 Let's get in touch :
   - 🔗 **[LinkedIn](https://www.linkedin.com/in/lilian-cleret/)**
+  - 🔗 **[Salesforce](https://www.salesforce.com/trailblazer/c-lilian92)**
 
 <br>
 
