@@ -7,7 +7,7 @@
 🔭 I’m currently working on Building and improving <b>full stack web applications</b>, focusing on performance, clean architecture and user experience.<br>👯 I’m looking to collaborate on Open-source or team projects related to <b>web development</b>, especially <b>JavaScript, Vue.js, backend APIs</b> and real-world applications.<br>🤝 I’m looking for help with Discovering new best practices, architecture patterns and feedback on <b>code quality and scalability</b>.<br>🌱 I’m currently learning Advanced <b>JavaScript / TypeScript</b>, modern frontend patterns, and continuously improving my backend and DevOps skills.<br>💬 Ask me about Web development, full stack projects, JavaScript, Vue.js, Python, Java — or how <b>high-level sport discipline</b> helps in tech careers.<br>⚡ Fun fact I’m a <b>French & European Taekwondo Champion</b> — discipline and perseverance are part of my daily workflow 🥋<br>
 
 ## 🗂️ Projects :
-  - 📂 **[Clmamart Taekwondo](https://taekwondo-clamart.com/)** : Official website of the Clamart Taekwondo Association.
+  - 📂 **[Clamart Taekwondo](https://taekwondo-clamart.com/)** : Official website of the Clamart Taekwondo Association.
   - 📂 **Link-reducer** : Oen-source link shortener made in Python and React. [GitHub Link](https://github.com/C-Lilian/link-reducer)
   - 📂 **[WitO](https://where-is-the-other.lilian-cleret.com/)** : Memory game made with JavaScript and VueJS. [GitHub Link](https://github.com/C-Lilian/WitO)
   - 📂 **BoatGame** : Python bot for Discord. [GitHub Link](https://github.com/C-Lilian/BoatGame)
