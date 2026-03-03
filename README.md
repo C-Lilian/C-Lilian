@@ -8,7 +8,8 @@
 
 ## 🗂️ Projects :
   - 📂 **[Clamart Taekwondo](https://taekwondo-clamart.com/)** : Official website of the Clamart Taekwondo Association.
-  - 📂 **Link-reducer** : Oen-source link shortener made in Python and React. [GitHub Link](https://github.com/C-Lilian/link-reducer)
+  - 📂 **Password-manager** : Open-source password manager built with FastAPI, React, PostgreSQL and Docker. [GitHub Link](https://github.com/C-Lilian/password-manager)
+  - 📂 **Link-reducer** : Open-source link shortener made in Python and React. [GitHub Link](https://github.com/C-Lilian/link-reducer)
   - 📂 **[WitO](https://where-is-the-other.lilian-cleret.com/)** : Memory game made with JavaScript and VueJS. [GitHub Link](https://github.com/C-Lilian/WitO)
   - 📂 **BoatGame** : Python bot for Discord. [GitHub Link](https://github.com/C-Lilian/BoatGame)
   - 📂 **Jeu De La Vie** : Simulation game made with Java. [GitHub Link](https://github.com/C-Lilian/Jeu_De_La_Vie)
